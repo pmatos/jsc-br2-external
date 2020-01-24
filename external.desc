@@ -1,0 +1,2 @@
+name: JSC32
+desc: Environments to reproduce JSC cross platform problems using qemu-system
