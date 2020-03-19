@@ -61,3 +61,6 @@ BR2_PACKAGE_GDB_TUI=y
 # Perl support for JSC tests
 BR2_PACKAGE_PERL=y
 BR2_PACKAGE_PERL_MODULES=""
+
+# Support for GNU diff necessary for JSC tests
+BR2_PACKAGE_DIFFUTILS=y
