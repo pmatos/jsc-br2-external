@@ -1,3 +1,5 @@
+[![](.github/badges/SponsoredbyIgalia.svg)](https://www.igalia.com)
+
 README
 
 There's a single defconfig here at the moment: `qemu-mips32elr2-jsc`. This is based on upstream `qemu-mips32elr2`.
